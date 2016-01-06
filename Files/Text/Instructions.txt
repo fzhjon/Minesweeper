@@ -1,0 +1,9 @@
+Minesweeper is a game of luck and strategy.
+The instructions are:
+1. Left-Click the board in order to reveal a hidden space
+2. Right-Click the board in order to place or remove a "flag"
+3. A revealed number tells you EXACTLY how many mines are in the vicinity (Up, Down, Left, Right, and all diagonals). Use this logic in order to figure out where the mines are and avoid them!
+4. A "blank" revealed space means there are no mines in the direct vicinity. All "blanks" will reveal the adjacent squares.
+5. Using a flag will allow you to avoid where you suspect a mine is placed. It will also prevent you from accidentally revealing that specific grid space. If you decide to change your mind, simply remove the flag by right-clicking it again.
+6. The game is won when all NON-mine spaces are revealed.
+7. You lose the game if you reveal a mine.
